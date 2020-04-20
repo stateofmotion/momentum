@@ -1,6 +1,9 @@
 /public/hot
 /public/storage
 public/css/app.css
+public/js/manifest.js
+public/js/vendor.js
+public/js/app.js.js
 
 /node_modules
 /storage/*.key
